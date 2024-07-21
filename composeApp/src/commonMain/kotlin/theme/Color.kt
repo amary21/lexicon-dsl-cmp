@@ -1,0 +1,33 @@
+package theme
+
+import androidx.compose.ui.graphics.Color
+
+
+val Main = Color(0xff272833)
+val MainLighten4 = Color(0xff30313F)
+val MainLighten8 = Color(0xff393A4A)
+val MainLighten28 = Color(0xff6B6C7E)
+val MainLighten52 = Color(0xffA7A9BC)
+val MainLighten65 = Color(0xffCDCED9)
+val MainLighten74 = Color(0xffE7E7ED)
+val SecondaryHover = Color(0xffF7F8F9)
+val Primary = Color(0xff0B5FFF)
+val PrimaryLighten23 = Color(0xff80ACFF)
+val PrimaryLighten33 = Color(0xff393A4A)
+val PrimaryLighten45 = Color(0xff6B6C7E)
+val PrimaryDarken5 = Color(0xff80ACFF)
+val PrimaryDarken10 = Color(0xff004AD7)
+val Success = Color(0xff287D3C)
+val SuccessLighten25 = Color(0xff004AD7)
+val SuccessLighten63 = Color(0xffEDF9F0)
+val Warning = Color(0xffB95000)
+val WarningLighten25 = Color(0xffFF8F39)
+val WarningLighten60 = Color(0xffFFF4EC)
+val Error = Color(0xffDA1414)
+val ErrorLighten28 = Color(0xffF48989)
+val ErrorLighten50 = Color(0xffFEEFEF)
+val Info = Color(0xff2E5AAC)
+val InfoLighten28 = Color(0xff89A7E0)
+val InfoLighten53 = Color(0xffEEF2FA)
+val White = Color(0xffFFFFFF)
+val LightBG = Color(0xffF1F2F5)
